@@ -27,7 +27,7 @@ A sleek, 3D-printed word clock that tells time in Hebrew using an Arduino Nano a
 
 | From (Component) | Pin | To (Component) | Pin | Notes |
 | :--- | :--- | :--- | :--- | :--- |
-| **Power Jack** | (+) 5V | **LED Matrix** & **Arduino** | 5V / VIN | Connected in parallel |
+| **Power Jack** | (+) 5V | **LED Matrix** & **Arduino** | 5V  | Connected in parallel |
 | **Power Jack** | (-) GND | **LED Matrix** & **Arduino** | GND | Connected in parallel |
 | **Arduino** | D3 | **LED Matrix** | DIN | Via 220Ω Resistor |
 
