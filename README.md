@@ -51,10 +51,9 @@ A sleek, 3D-printed word clock that tells time in Hebrew using an Arduino Nano a
 
 ## 🛠 Software Requirements
 
-This project typically requires the following Arduino libraries:
-* `FastLED` or `Adafruit_NeoPixel`
-* `RTClib` (If using an external Real Time Clock module)
+This projec requires the following Arduino librarie:
+* `FastLED` 
 
 ---
 
-*Created with ❤️ and Caffeine.*
+*Created by JeffTheSoldier.*
