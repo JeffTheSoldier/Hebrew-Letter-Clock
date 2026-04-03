@@ -1,6 +1,7 @@
 # 🕰️ Hebrew Letter Clock
 
 ![Hebrew Clock Front View](./images/IMG_1936.jpg)
+<img src="./images/IMG_1928.jpg" width="500" alt="Hebrew Clock Front View">
 
 A sleek, 3D-printed word clock that tells time in Hebrew using an Arduino Nano and a 16x16 RGB LED matrix.
 
