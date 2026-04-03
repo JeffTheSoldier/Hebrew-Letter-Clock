@@ -36,7 +36,7 @@ A sleek, 3D-printed word clock that tells time in Hebrew using an Arduino Nano a
 | **Arduino** | **D2** | **Push Button** | Leg 1 | Uses internal `INPUT_PULLUP` |
 | **Push Button** | Leg 2 | **Arduino** | **GND** | Completes circuit to Ground |
 
-<img src="./images/wiring_diagram.jpeg" width="300"> <img src="./images/IMG_1930.jpg" width="300">
+<img src="./images/wiring_diagram.jpeg" width="400"> <img src="./images/IMG_1930.jpg" width="300">
 
 > **Note:** The button does not require an external resistor. The 220Ω resistor should be soldered inline between the Arduino D3 pin and the LED Matrix Data Input to protect the first LED from voltage spikes.
 
