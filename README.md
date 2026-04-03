@@ -1,6 +1,6 @@
 # 🕰️ Hebrew Letter Clock
 
-<img src="./images/IMG_1936.jpg" width="500" alt="Hebrew Clock Front View">
+<img src="./images/IMG_1936.jpg" width="450" alt="Hebrew Clock Front View">
 
 A sleek, 3D-printed word clock that tells time in Hebrew using an Arduino Nano and a 16x16 RGB LED matrix.
 
@@ -40,7 +40,10 @@ A sleek, 3D-printed word clock that tells time in Hebrew using an Arduino Nano a
 ## 🏗 Assembly Guide
 
 1. **Front Panel:** Place the 3D-printed front panel face down (letters facing the table).
+<img src="./images/IMG_1927.jpg" width="300" alt="Hebrew Clock Front View">
+
 2. **Inserts:** Press 4 heat-set inserts into the corners of the front panel.
+
 3. **Matrix:** Align the **LED Matrix** on the front panel. Ensure wires are positioned at the bottom.
 4. **Grid:** Drop the **Inner Grid** on top of the matrix. This prevents light from "bleeding" into neighboring letters.
 5. **Back Panel:** Place the back panel over the grid and thread the matrix wires through the center hole.
